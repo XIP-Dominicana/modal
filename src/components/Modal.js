@@ -4,7 +4,7 @@ const Modal = () =>  (
         data-bs-backdrop='static'
         tabIndex='-1'
         aria-hidden='true'>
-        <div className='modal-dialog modal-dialog-centered'>
+        <div className='modal-dialog modal-sm modal-dialog-centered'>
             <div className='modal-content'>
                 <div className='modal-body'>
                     <h4 className='text-center'>Processing...</h4>
